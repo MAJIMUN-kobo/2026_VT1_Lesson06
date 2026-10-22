@@ -1,5 +1,11 @@
 # 2026_VT1_Lesson06
-## 2026-10-15 Update
+## 2026-10-22 Update.
+- ライティング / Aniamtion / Shader Graph
+
+<img width="480" height="270" alt="vt1_lesson06_20261022" src="https://github.com/user-attachments/assets/96d67ca8-f31d-47fb-8f95-9ea9147bbb48" />
+
+
+## 2026-10-15 Update.
 ### カメラワーク
 - シンプルなカメラワークの実装
 - 内部クラスを使ったインスペクターの設定
