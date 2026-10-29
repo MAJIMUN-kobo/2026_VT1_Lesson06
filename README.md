@@ -7,7 +7,7 @@
 
 ## 2026-10-15 Update.
 ### カメラワーク
-- シンプルなカメラワークの実装
+- シンプルなカメラワークの実装（[CameraContorller.cs](https://github.com/MAJIMUN-kobo/2026_VT1_Lesson06/blob/main/Assets/_VT1_Lesson06/Scripts/CameraController.cs)）
 - 内部クラスを使ったインスペクターの設定
 - Cinemashineの紹介
 
